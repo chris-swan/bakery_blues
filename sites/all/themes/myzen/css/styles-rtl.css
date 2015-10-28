@@ -15,3 +15,7 @@
 /* SMACSS theme rules */
 /* @import "theme-A-rtl.css"; */
 /* @import "theme-B-rtl.css"; */
+
+body {
+	background: red;
+}
